@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-10-30T22:07:59.017112",
+  "random_state": 42,
+  "class_names": [
+    "Legitimate",
+    "Phishing",
+    "Spam"
+  ],
+  "best_model_name": "Linear SVM",
+  "models": {
+    "Naive Bayes": {
+      "accuracy": 0.9464105156723963,
+      "macro_f1": 0.946318299419621,
+      "weighted_f1": 0.9463100482483743,
+      "macro_auc": 0.9942520318283079,
+      "cv_macro_f1": 0.9459607624432117,
+      "best_params": {
+        "alpha": 0.1
+      },
+      "per_class": {
+        "Legitimate": {
+          "precision": 0.9232954545454546,
+          "recall": 0.9878419452887538,
+          "f1_score": 0.9544787077826725
+        },
+        "Phishing": {
+          "precision": 1.0,
+          "recall": 0.8939393939393939,
+          "f1_score": 0.944
+        },
+        "Spam": {
+          "precision": 0.9239766081871345,
+          "recall": 0.9575757575757575,
+          "f1_score": 0.9404761904761905
+        }
+      },
+      "confusion_matrix": [
+        [
+          325,
+          0,
+          4
+        ],
+        [
+          13,
+          295,
+          22
+        ],
+        [
+          14,
+          0,
+          316
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9737108190091001,
+      "macro_f1": 0.9737315961486307,
+      "weighted_f1": 0.9737277744618468,
+      "macro_auc": 0.9982672661554268,
+      "cv_macro_f1": 0.9724468987925065,
+      "best_params": {
+        "C": 5.0
+      },
+      "per_class": {
+        "Legitimate": {
+          "precision": 0.9644970414201184,
+          "recall": 0.9908814589665653,
+          "f1_score": 0.9775112443778111
+        },
+        "Phishing": {
+          "precision": 0.9968454258675079,
+          "recall": 0.9575757575757575,
+          "f1_score": 0.9768160741885626
+        },
+        "Spam": {
+          "precision": 0.9610778443113772,
+          "recall": 0.9727272727272728,
+          "f1_score": 0.9668674698795181
+        }
+      },
+      "confusion_matrix": [
+        [
+          326,
+          0,
+          3
+        ],
+        [
+          4,
+          316,
+          10
+        ],
+        [
+          8,
+          1,
+          321
+        ]
+      ]
+    },
+    "Linear SVM": {
+      "accuracy": 0.9757330637007078,
+      "macro_f1": 0.9757224177789131,
+      "weighted_f1": 0.9757130979191991,
+      "macro_auc": 0.9979960412385428,
+      "cv_macro_f1": 0.9727062036634525,
+      "best_params": {
+        "C": 3.0
+      },
+      "per_class": {
+        "Legitimate": {
+          "precision": 0.9761194029850746,
+          "recall": 0.993920972644377,
+          "f1_score": 0.9849397590361446
+        },
+        "Phishing": {
+          "precision": 0.9875776397515528,
+          "recall": 0.9636363636363636,
+          "f1_score": 0.9754601226993865
+        },
+        "Spam": {
+          "precision": 0.963855421686747,
+          "recall": 0.9696969696969697,
+          "f1_score": 0.9667673716012085
+        }
+      },
+      "confusion_matrix": [
+        [
+          327,
+          0,
+          2
+        ],
+        [
+          2,
+          318,
+          10
+        ],
+        [
+          6,
+          4,
+          320
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.9666329625884732,
+      "macro_f1": 0.9667143716675176,
+      "weighted_f1": 0.96671117131726,
+      "macro_auc": 0.9980364653588106,
+      "cv_macro_f1": 0.965461099804173,
+      "best_params": {
+        "max_depth": null,
+        "n_estimators": 150
+      },
+      "per_class": {
+        "Legitimate": {
+          "precision": 0.9611940298507463,
+          "recall": 0.9787234042553191,
+          "f1_score": 0.9698795180722891
+        },
+        "Phishing": {
+          "precision": 0.9937106918238994,
+          "recall": 0.9575757575757575,
+          "f1_score": 0.9753086419753086
+        },
+        "Spam": {
+          "precision": 0.9464285714285714,
+          "recall": 0.9636363636363636,
+          "f1_score": 0.954954954954955
+        }
+      },
+      "confusion_matrix": [
+        [
+          322,
+          0,
+          7
+        ],
+        [
+          3,
+          316,
+          11
+        ],
+        [
+          10,
+          2,
+          318
+        ]
+      ]
+    }
+  }
+}

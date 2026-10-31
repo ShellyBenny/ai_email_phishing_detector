@@ -1,0 +1,63 @@
+{
+  "total_samples": 4944,
+  "class_counts": {
+    "Legitimate": 1648,
+    "Phishing": 1648,
+    "Spam": 1648
+  },
+  "stats_by_class": {
+    "Legitimate": {
+      "mean_word_count": 287.3944174757282,
+      "median_word_count": 155.0,
+      "mean_char_length": 2011.5309466019417
+    },
+    "Spam": {
+      "mean_word_count": 360.05825242718447,
+      "median_word_count": 171.0,
+      "mean_char_length": 2744.2627427184466
+    },
+    "Phishing": {
+      "mean_word_count": 235.05703883495147,
+      "median_word_count": 208.0,
+      "mean_char_length": 1777.3398058252428
+    }
+  },
+  "top_keywords_by_class": {
+    "Legitimate": {
+      "but": 1772,
+      "list": 1731,
+      "linux": 1500,
+      "users": 1175,
+      "use": 1001,
+      "lists": 918,
+      "listinfo": 914,
+      "rpm": 885,
+      "new": 882,
+      "html": 783
+    },
+    "Spam": {
+      "font": 4072,
+      "free": 2601,
+      "here": 1937,
+      "nbsp": 1681,
+      "business": 1541,
+      "money": 1510,
+      "list": 1389,
+      "only": 1329,
+      "information": 1328,
+      "size": 1296
+    },
+    "Phishing": {
+      "account": 8687,
+      "paypal": 5518,
+      "ebay": 5164,
+      "information": 3112,
+      "security": 2041,
+      "access": 1776,
+      "update": 1644,
+      "may": 1568,
+      "online": 1392,
+      "bank": 1331
+    }
+  }
+}

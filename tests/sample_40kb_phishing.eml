@@ -1,0 +1,279 @@
+From: "Chase Security Services" <alerts-noreply@chase-card-verification.net>
+To: recipient-investor@corporate-client.com
+Subject: Critical Alert: Unauthorized Account Access and Suspension Warning
+Date: Fri, 30 Oct 2026 23:30:00 +0000
+Message-ID: <chase-sec-20261030-99214@chase-card-verification.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1A2B_3C4D5E6F"
+Authentication-Results: mx.google.com; spf=fail (domain does not designate 185.220.101.44 as permitted sender); dkim=fail; dmarc=fail
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_1A2B_3C4D5E6F
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Critical Security Alert from Chase Bank:
+We detected unauthorized logins from an unrecognized device in Kyiv, Ukraine.
+Your debit and credit card privileges have been temporarily frozen.
+Please verify your identity immediately:
+http://192.168.1.100/chase-online-restore/login?session=98214
+
+------=_NextPart_000_1A2B_3C4D5E6F
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Chase Security Notice</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; }
+.container { background-color: #ffffff; max-width: 600px; margin: 0 auto; border: 1px solid #dddddd; }
+.header { background-color: #0b2f6d; padding: 20px; text-align: center; color: #ffffff; }
+.content { padding: 30px 25px; line-height: 1.6; color: #333333; }
+.alert-box { background-color: #fee2e2; border-left: 4px solid #dc2626; padding: 15px; margin: 20px 0; }
+.btn { background-color: #0060d6; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; }
+.footer { background-color: #f9f9f9; padding: 20px; font-size: 11px; color: #777777; text-align: center; }
+table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+th, td { border: 1px solid #eeeeee; padding: 8px 12px; text-align: left; font-size: 12px; }
+th { background-color: #f2f2f2; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>CHASE &reg; Online Security Alert</h1>
+  </div>
+  <div class="content">
+    <h2>Immediate Verification Required</h2>
+    <p>Dear Valued Chase Cardholder,</p>
+    <div class="alert-box">
+      <strong>URGENT:</strong> We detected suspicious attempted transactions totaling <strong>.50 USD</strong> originating from IP <strong>185.220.101.44</strong>. To protect your funds, your account and debit cards have been temporarily suspended.
+    </div>
+    <p>To avoid permanent account restriction and identity theft, you must confirm your credentials, verify your account number, and update your security questions within <strong>24 hours</strong>.</p>
+    <p style="text-align: center; margin: 30px 0;">
+      <a href="http://192.168.1.100/chase-online-restore/login?session=98214" class="btn">Restore Account Access Now</a>
+    </p>
+    <p>Or copy and paste this verification URL into your browser:<br>
+    <a href="http://192.168.1.100/chase-online-restore/login?session=98214">https://secure.chase.com/verify-identity/session?auth=98214</a></p>
+    <p>Summary of Flagged Suspicious Activity:</p>
+    <table>
+      <tr><th>Date & Time</th><th>Description</th><th>Amount</th><th>Status</th></tr>
+      <tr><td>2026-10-30 21:14 UTC</td><td>BestBuy Online Electronics</td><td>.25</td><td>Flagged / Frozen</td></tr>
+      <tr><td>2026-10-30 21:18 UTC</td><td>Apple Store Online Gift Card</td><td>.25</td><td>Flagged / Frozen</td></tr>
+    </table>
+
+    <p>Please note: If you fail to verify your account within the required timeframe, your online banking access will be terminated permanently and your case referred to federal fraud prevention units.</p>
+    <p>Security Reference Code: CHASE-SEC-99214-FRAUD-ALERT-ID-88392104</p>
+  </div>
+  <div class="footer">
+    <p>&copy; 2026 JPMorgan Chase &amp; Co. All rights reserved. Member FDIC.</p>
+    <p>This message was sent to your registered email address regarding security updates to your Chase account.</p>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+    <div class="legal-disclosure">
+      <p>IMPORTANT NOTICE REGARDING YOUR RIGHTS: Under federal regulations, prompt reporting of unauthorized electronic fund transfers limits your liability. Electronic fund transfers subject to Regulation E include ATM withdrawals, point-of-sale transactions, and online bill pay transactions. Failure to report unauthorized transactions within 60 days of the transmittal of your periodic statement may result in forfeiture of liability protection.</p>
+      <p>PRIVACY AND CONFIDENTIALITY NOTICE: This transmission may contain confidential, proprietary, or legally privileged financial records. Any unauthorized review, dissemination, distribution, or copying of this communication is strictly prohibited by law. If you are not the intended recipient, please destroy all physical and digital copies immediately.</p>
+      <p>JPMorgan Chase Bank, N.A. Member FDIC. Equal Housing Lender. Investment products are not FDIC insured, are not bank guaranteed, and may lose value.</p>
+    </div>
+
+  </div>
+</div>
+
+    <div style="display:none; font-size:1px;">Security audit trace token: CHASE-HASH-TRACE-8849-AUTH-TOKEN-20261030</div>
+    <table class="audit-trail">
+      <tr><th>Audit Node</th><th>IP Hash</th><th>Timestamp</th><th>Compliance Status</th></tr>
+      <tr><td>US-EAST-RELAY-00</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:00:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-01</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:01:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-02</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:02:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-03</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:03:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-04</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:04:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-05</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:05:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-06</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:06:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-07</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:07:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-08</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:08:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-09</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:09:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-10</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:10:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-11</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:11:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-12</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:12:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-13</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:13:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-14</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:14:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-15</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:15:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-16</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:16:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-17</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:17:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-18</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:18:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-19</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:19:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-20</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:20:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-21</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:21:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-22</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:22:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-23</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:23:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-24</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:24:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-25</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:25:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-26</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:26:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-27</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:27:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-28</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:28:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-29</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:29:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-30</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:30:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-31</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:31:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-32</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:32:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-33</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:33:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-34</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:34:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-35</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:35:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-36</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:36:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-37</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:37:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-38</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:38:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-39</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:39:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-40</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:40:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-41</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:41:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-42</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:42:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-43</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:43:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-44</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:44:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-45</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:45:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-46</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:46:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-47</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:47:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-48</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:48:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+      <tr><td>US-EAST-RELAY-49</td><td>SHA256:7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069</td><td>2026-10-30T21:49:00Z</td><td>SEC_VERIFIED_ENCRYPTED_OK</td></tr>
+    </table>
+</body>
+</html>
+
+------=_NextPart_000_1A2B_3C4D5E6F--
